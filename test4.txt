@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-this is master
-this is master
-this is master
-=======
-this is b1
->>>>>>> b1
+From Repo********************
