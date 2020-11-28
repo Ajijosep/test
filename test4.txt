@@ -3,4 +3,6 @@ this is b1
 pull it
 
 2nd attempt
->>>>>>> b1
+
+3rd attempt
+
